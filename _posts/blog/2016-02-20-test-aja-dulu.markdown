@@ -4,6 +4,7 @@ title: "Test Aja Dulu"
 modified:
 categories: blog
 excerpt:
+author: detik_pw
 tags: []
 image:
   feature:
