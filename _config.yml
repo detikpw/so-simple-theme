@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Detik Pristiana Warjaya
-  avatar: bio-photo.jpg
+  avatar: detik_bio.jpg
   email: detikmath08[at]gmail[dot]com
   disqus-shortname:
   twitter: 2nd_frozenheart
